@@ -1,4 +1,4 @@
-#Hux Blog
+#Joe Blog
 
 ###[View Live Hux Blog &rarr;](http://huxpro.github.io)
 
